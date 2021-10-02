@@ -55,7 +55,7 @@ if ((keyPressed >= 97 && keyPressed<= 122) || (keyPressed >= 65 && keyPressed <=
 
 function aplhabetkey()
 {
-	img_image="alpkey.png";
+	img_image="Alpkey.png";
 	add();
 
 }
@@ -66,7 +66,7 @@ function numberkey()
 }
 function arrowkey()
 {
-	img_image="arrkey.png";
+	img_image="Arrkey.png";
 	add();
 }
 function specialkey()
